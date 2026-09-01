@@ -3,7 +3,7 @@
 A competitive programmer and software developer passionate about building scalable backend systems, AI-powered applications, and low-level tools. 
 
 - 💻 **B.Tech CSE** student at NSUT (Netaji Subhas University of Technology)
-- 🚀 **Competitive Programming:** Peak rating **1637** on [LeetCode](https://leetcode.com/u/anand-devx) | Top 15% for execution time optimization
+- 🚀 **Competitive Programming:** Peak rating **1637** on LeetCode | Top 15% for execution time optimization
 - 🛠️ **Building:** High-performance backend architectures and deep learning diagnostic pipelines.
 - 🌱 **Currently exploring:** Distributed Systems, Cloud Architecture, and advanced C++
 - 📫 **Reach me at:** anandyadav11206@gmail.com | [LinkedIn](https://linkedin.com/in/anand-yadav-506a5b354/)
